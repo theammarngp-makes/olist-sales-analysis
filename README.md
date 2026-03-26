@@ -10,7 +10,7 @@ The goal is to understand revenue trends, customer behavior, and sales performan
 - Understand regional sales distribution  
 - Track key KPIs like Total Revenue, Orders, and AOV  
 - Generate actionable business insights  
-
+ 
 ## Tools 
 - SQL (MySQL)
 - Tableau Public
