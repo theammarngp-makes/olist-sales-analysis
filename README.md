@@ -53,10 +53,11 @@ Olist-Sales-Analysis
 - Expand in high-performing regions  
 - Optimize low-performing categories  
 
-## How to Use 
-1. Download dataset from `dataset/` folder  
-2. Run SQL queries from `sql_queries/`  
-3. Open Tableau dashboard to explore insights  
+## 📂 Dataset
+Due to size limitations, the dataset is not uploaded here.
+
+You can download it from:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## Author
 **Mohammad Ammar**  
