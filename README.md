@@ -53,7 +53,7 @@ Olist-Sales-Analysis
 - Expand in high-performing regions  
 - Optimize low-performing categories  
 
-## How to Use
+## How to Use 
 1. Download dataset from `dataset/` folder  
 2. Run SQL queries from `sql_queries/`  
 3. Open Tableau dashboard to explore insights  
