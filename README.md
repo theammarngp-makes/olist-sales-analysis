@@ -39,6 +39,8 @@ Olist-Sales-Analysis
 ## 📈 Dashboard Preview
 <img width="2398" height="1412" alt="Olist sales dashboard" src="https://github.com/user-attachments/assets/71f62b95-f1f1-40a0-be2e-a644024509e9" />
 
+## 📊 Live Dashboard
+[View Interactive Dashboard](https://public.tableau.com/views/OlistDashboard_17723869461260/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🔍 Key Insights
 1. Revenue shows strong growth during mid-year with a drop in later months  
