@@ -33,11 +33,10 @@ The goal is to understand revenue trends, customer behavior, and sales performan
 
 | Folder | Content |
 |--------|---------|
-| 📁 01_Raw_Data | olist_*.csv (all dataset files) |
-| 📁 02_SQL_Queries | monthly_analysis.sql, category_analysis.sql, state_analysis.sql, kpi_analysis.sql |
-| 📁 03_Dashboard | ecommerce_dashboard.png |
-| 📄 README.md | Project documentation |
-
+| 📁 dashboard | Olist sales dashboard.png |
+| 📁 insights | KPIS.csv, Sale by category.csv, State.csv, monthly.csv |
+| 📁 sql | Category_Revenue.sql, Monthly_Revenue.sql, Sales_KPIS.sql, State & City wise_Revenue.sql |
+| 📄 LICENSE | MIT License |
 
 ## 📈 Dashboard Preview
 <img width="2398" height="1412" alt="Olist sales dashboard" src="https://github.com/user-attachments/assets/71f62b95-f1f1-40a0-be2e-a644024509e9" />
