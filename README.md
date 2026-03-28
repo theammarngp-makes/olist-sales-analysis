@@ -37,6 +37,7 @@ The goal is to understand revenue trends, customer behavior, and sales performan
 | 📁 insights | KPIS.csv, Sale by category.csv, State.csv, monthly.csv |
 | 📁 sql | Category_Revenue.sql, Monthly_Revenue.sql, Sales_KPIS.sql, State & City wise_Revenue.sql |
 | 📄 LICENSE | MIT License |
+| 📄 README.md | Project documentation |
 
 ## 📈 Dashboard Preview
 <img width="2398" height="1412" alt="Olist sales dashboard" src="https://github.com/user-attachments/assets/71f62b95-f1f1-40a0-be2e-a644024509e9" />
