@@ -29,17 +29,14 @@ The goal is to understand revenue trends, customer behavior, and sales performan
 - Derived actionable insights to support business decision-making
   
 
-## 📁 Project Structure
-Olist-Sales-Analysis
-┣ 📂 dataset
-┣ 📂 sql_queries
-┃ ┣ monthly_analysis.sql
-┃ ┣ category_analysis.sql
-┃ ┣ state_analysis.sql
-┃ ┗ kpi_analysis.sql
-┣ 📂 dashboard
-┃ ┗ ecommerce_dashboard.png
-┗ README.md
+## 📁 Repository Structure
+
+| Folder | Content |
+|--------|---------|
+| 📁 01_Raw_Data | olist_*.csv (all dataset files) |
+| 📁 02_SQL_Queries | monthly_analysis.sql, category_analysis.sql, state_analysis.sql, kpi_analysis.sql |
+| 📁 03_Dashboard | ecommerce_dashboard.png |
+| 📄 README.md | Project documentation |
 
 
 ## 📈 Dashboard Preview
