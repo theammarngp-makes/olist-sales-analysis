@@ -85,6 +85,11 @@ Aspiring Data Analyst | SQL | Pandas | Tableau
 
 - LinkedIn: [https://www.linkedin.com/in/mohammad-ammar-ngp/]
 - GitHub: [https://github.com/theammarngp-makes]
-  
+
+## 🔗 Related Projects
+
+
+- Cohort Retention Analysis : https://github.com/theammarngp-makes/E-commerce-cohort-retention-analysis
+    
 ## If you found this project useful, give it a star!
 
