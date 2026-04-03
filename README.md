@@ -88,8 +88,9 @@ Aspiring Data Analyst | SQL | Pandas | Tableau
 
 ## 🔗 Related Projects
 
-
 - Cohort Retention Analysis : https://github.com/theammarngp-makes/E-commerce-cohort-retention-analysis
-    
-## If you found this project useful, give it a star!
+  
+- E-Commerce RFM Customer Segmentation: : https://github.com/theammarngp-makes/ecommerce-rfm-customer-segmentation
+      
+## ⭐ If you found this project useful, give it a star!
 
