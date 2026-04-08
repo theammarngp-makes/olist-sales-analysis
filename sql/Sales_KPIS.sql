@@ -20,5 +20,5 @@ SELECT
 FROM kpis ;
 
 -- sum(total) for total revenue 
--- COUNT(Distinct customer_unique_id) rteurns total number of orders
+-- COUNT(Distinct customer_unique_id) rteurns total number of customers 
 -- AVG(total) retuens avg value
