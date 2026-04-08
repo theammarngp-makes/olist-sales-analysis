@@ -18,3 +18,7 @@ SELECT
     COUNT(DISTINCT customer_unique_id ) AS total_customers,
     ROUND(AVG(total),2) AS AOV
 FROM kpis ;
+
+-- sum(total) for total revenue 
+-- COUNT(Distinct customer_unique_id) rteurns total number of orders
+-- AVG(total) retuens avg value
