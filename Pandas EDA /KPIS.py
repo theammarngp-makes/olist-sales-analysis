@@ -16,7 +16,9 @@ products =pd.read_csv("Ecommerce Sales/olist_products_dataset.csv")
 df = orders.merge(customers,on="customer_id",how="left")\
       .merge(order_items,on="order_id",how="left")\
       .merge(products,on="product_id",how="left")\
-      .merge(order_payments,on="or
+      .merge(order_payments,on="order_id",how="left")
+
+df["total"] =df["freight_value"] + df["price"]
 #KPIS
 total_revenue = df["total"].sum()
 total_orders = df["order_id"].nunique()
