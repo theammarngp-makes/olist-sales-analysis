@@ -48,7 +48,7 @@ The goal is to understand revenue trends, customer behavior, and sales performan
 ## 📈 Dashboard Preview
 <img width="2398" height="1412" alt="Olist sales dashboard" src="https://github.com/user-attachments/assets/71f62b95-f1f1-40a0-be2e-a644024509e9" />
 
-## 📊 Live Dashboard
+## 🌐 Live Interactive Dashboard
 [View Interactive Dashboard](https://public.tableau.com/views/OlistDashboard_17723869461260/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key Insights
@@ -90,7 +90,7 @@ Aspiring Data Analyst | SQL | Pandas | Tableau
 
 - Cohort Retention Analysis : https://github.com/theammarngp-makes/E-commerce-cohort-retention-analysis
   
-- E-Commerce RFM Customer Segmentation: : https://github.com/theammarngp-makes/ecommerce-rfm-customer-segmentation
+- E-Commerce RFM Customer Segmentation: https://github.com/theammarngp-makes/ecommerce-rfm-customer-segmentation
       
 ## ⭐ If you found this project useful, give it a star!
 
