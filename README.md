@@ -64,13 +64,6 @@ This analysis helps stakeholders:
 - Focus on top states contributing maximum sales
 - Understand seasonal trends for better inventory planning
 - Improve marketing strategies based on customer purchase patterns
-
-## Skills Demonstrated
-- SQL (Joins, Aggregations, KPI Calculation)
-- Data Cleaning & Transformation
-- Exploratory Data Analysis (EDA)
-- Data Visualization (Tableau)
-- Business Insight Generation
   
 ## Business Recommendations
 - Focus marketing on top-performing categories  
