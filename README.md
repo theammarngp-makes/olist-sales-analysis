@@ -95,15 +95,29 @@ Aspiring Data Analyst | SQL | Pandas | Tableau
       
 ## ⭐ If you found this project useful, give it a star!
 
-
-## 🚀 Skills & Tools
+## 🚀 Skills & Tools Used
 
 <p align="center">
 
+<a href="https://www.python.org">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://img.shields.io/badge/SQL-MySQL-black?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</a>
+
+<a href="https://www.tableau.com/">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/EDA-Exploratory_Data_Analysis-green?style=for-the-badge"/>
+</a>
 
 </p>
 
