@@ -47,10 +47,11 @@ The goal is to understand revenue trends, customer behavior, and sales performan
 [View Interactive Dashboard](https://public.tableau.com/views/OlistDashboard_17723869461260/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key Insights
-1. Revenue peaks during mid-year, followed by a noticeable decline in later months  
-2. A small number of product categories drive the majority of total revenue  
-3. Sales are highly concentrated in a few key states, indicating regional dependency  
-4. Customer retention is low, suggesting most users are one-time buyers
+
+1. Revenue shows strong growth until mid-year, followed by decline → indicates seasonality  
+2. Top 20% product categories contribute majority of revenue (Pareto effect)  
+3. Sales heavily concentrated in few states → business dependency risk  
+4. Majority customers are one-time buyers → low retention problem  
    
 ## Business Impact
 This analysis helps stakeholders:
