@@ -4,6 +4,17 @@
 This project focuses on analyzing an e-commerce dataset (Olist) using SQL and Tableau to uncover key business insights.  
 The goal is to understand revenue trends, customer behavior, and sales performance across categories and regions.
 
+
+## ⚡ Quick Snapshot
+
+- 📊 Dataset: Olist E-commerce (Brazil)
+
+- 🛠 Tools: SQL, Tableau, Python (EDA)
+
+- 📈 Focus: Revenue Trends, Customer Behavior, Regional Sales
+
+- 🎯 Outcome: Actionable insights to improve revenue & retention
+  
 ## Objectives
 - Analyze overall revenue and order trends  
 - Identify top-performing product categories  
