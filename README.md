@@ -95,6 +95,7 @@ Aspiring Data Analyst | SQL | Pandas | Tableau
       
 ## ⭐ If you found this project useful, give it a star!
 
+
 ## 🚀 Skills & Tools
 
 <p align="center">
@@ -102,7 +103,6 @@ Aspiring Data Analyst | SQL | Pandas | Tableau
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau"/>
 
 </p>
