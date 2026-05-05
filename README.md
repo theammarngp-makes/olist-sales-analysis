@@ -83,8 +83,8 @@ Aspiring Data Analyst | SQL | Pandas | Tableau
 
 ## 📬 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/mohammad-ammar-ngp/]
-- GitHub: [https://github.com/theammarngp-makes]
+[LinkedIn](https://www.linkedin.com/in/mohammad-ammar-ngp/)
+[GitHub](https://github.com/theammarngp-makes)
 
 ## 🔗 Related Projects
 
