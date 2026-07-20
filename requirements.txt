@@ -1,0 +1,14 @@
+
+# Usage: 
+# pip install -r requirements.txt
+# ==========================================
+
+# Data Manipulation & Analysis
+pandas>=2.0.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Note: The 'datetime' module used in python/EDA.py is part of the 
+# Python Standard Library and does not require installation.

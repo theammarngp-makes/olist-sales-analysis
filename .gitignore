@@ -1,0 +1,58 @@
+
+# 1. Raw Data & Archives (Excluded due to size limitations)
+Ecommerce Sales/
+files.zip
+*.csv
+# Explicitly track generated KPI and insight CSVs
+!insights/KPIS.csv
+!insights/monthly.csv
+!insights/Sale by category.csv
+!insights/State.csv
+
+# 2. Python Environments & Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# 3. Jupyter / IPython (If used for initial exploration)
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# 4. OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 5. IDE / Editor Configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+.spyderproject
+.spyproject
+
+# 6. BI Tools & Dashboards (Exclude local workbooks, keep images)
+*.twb
+*.twbx
+*.pbix
