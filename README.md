@@ -534,7 +534,7 @@ Markdown documentation (this repository)     →  docs/
 | Deliverable | Location | Description |
 |---|---|---|
 | Executive Report | [`reports/Executive_Report.md`](./reports/Executive_Report.md) / [`.pdf`](./reports/Executive_Report.pdf) | Full diagnostic write‑up: KPIs, seasonality, category/geographic concentration, retention, delivery friction, and recommendations |
-| Executive Presentation | [`presentation/`](./presentation) | 20‑slide board/recruiter‑facing deck covering the same engagement end‑to‑end |
+| Executive Presentation | [`presentation/`](./Presentation) | 20‑slide board/recruiter‑facing deck covering the same engagement end‑to‑end |
 | Interactive Dashboard | [`dashboard/`](./dashboard) | Tableau Public dashboard + static preview + field dictionary |
 | SQL Scripts | [`sql/`](./sql) | 4 modular, business‑question‑mapped query files |
 | Python Analysis | [`python/`](./python) | Cleaning, feature engineering, EDA, and diagnostic script |
@@ -559,8 +559,8 @@ Markdown documentation (this repository)     →  docs/
 
 | Asset | Audience | Purpose |
 |---|---|---|
-| [`presentation/Executive_Presentation.md`](./presentation/Executive_Presentation.md) | Executive board, investors, talent acquisition teams | Markdown source of the slide narrative — snapshot, seasonality, category/regional concentration, retention risk, delivery friction, and a 4‑pillar action roadmap |
-| [`presentation/Olist-Analytics-Insight.pptx`](./presentation/Olist-Analytics-Insight.pptx) | Same as above | 20‑slide rendered deck version, including dataset foundation, SQL layer, and technology‑stack slides |
+| [`presentation/Executive_Presentation.md`](./Presentation/Executive_Presentation.md) | Executive board, investors, talent acquisition teams | Markdown source of the slide narrative — snapshot, seasonality, category/regional concentration, retention risk, delivery friction, and a 4‑pillar action roadmap |
+| [`presentation/Olist-Analytics-Insight.pptx`](./Presentation/Olist-Analytics-Insight.pptx) | Same as above | 20‑slide rendered deck version, including dataset foundation, SQL layer, and technology‑stack slides |
 
 ---
 
@@ -657,7 +657,7 @@ olist-sales-analysis/
 │   ├── Olist sales dashboard.png
 │   ├── dashboard_dictionary.md
 │   └── README.md
-├── presentation/                     Executive slide deck
+├── Presentation/                     Executive slide deck
 │   ├── Olist-Analytics-Insight.pptx
 │   └── Executive_Presentation.md
 └── reports/                          Client-facing written deliverables
