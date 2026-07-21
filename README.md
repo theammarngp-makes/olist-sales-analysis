@@ -54,7 +54,7 @@
 - [Business Insights](#-business-insights)
 - [Recommendations](#-business-recommendations)
 - [Reports](#-reports)
-- [Presentation](#-presentation)
+- [Presentation](#-Presentation)
 - [Documentation](#-documentation)
 - [Repository Structure](#-repository-structure)
 
@@ -534,7 +534,7 @@ Markdown documentation (this repository)     →  docs/
 | Deliverable | Location | Description |
 |---|---|---|
 | Executive Report | [`reports/Executive_Report.md`](./reports/Executive_Report.md) / [`.pdf`](./reports/Executive_Report.pdf) | Full diagnostic write‑up: KPIs, seasonality, category/geographic concentration, retention, delivery friction, and recommendations |
-| Executive Presentation | [`presentation/`](./Presentation) | 20‑slide board/recruiter‑facing deck covering the same engagement end‑to‑end |
+| Executive Presentation | [`Presentation/`](./Presentation) | 20‑slide board/recruiter‑facing deck covering the same engagement end‑to‑end |
 | Interactive Dashboard | [`dashboard/`](./dashboard) | Tableau Public dashboard + static preview + field dictionary |
 | SQL Scripts | [`sql/`](./sql) | 4 modular, business‑question‑mapped query files |
 | Python Analysis | [`python/`](./python) | Cleaning, feature engineering, EDA, and diagnostic script |
@@ -559,8 +559,8 @@ Markdown documentation (this repository)     →  docs/
 
 | Asset | Audience | Purpose |
 |---|---|---|
-| [`presentation/Executive_Presentation.md`](./Presentation/Executive_Presentation.md) | Executive board, investors, talent acquisition teams | Markdown source of the slide narrative — snapshot, seasonality, category/regional concentration, retention risk, delivery friction, and a 4‑pillar action roadmap |
-| [`presentation/Olist-Analytics-Insight.pptx`](./Presentation/Olist-Analytics-Insight.pptx) | Same as above | 20‑slide rendered deck version, including dataset foundation, SQL layer, and technology‑stack slides |
+| [`Presentation/Executive_Presentation.md`](./Presentation/Executive_Presentation.md) | Executive board, investors, talent acquisition teams | Markdown source of the slide narrative — snapshot, seasonality, category/regional concentration, retention risk, delivery friction, and a 4‑pillar action roadmap |
+| [`Presentation/Olist-Analytics-Insight.pptx`](./Presentation/Olist-Analytics-Insight.pptx) | Same as above | 20‑slide rendered deck version, including dataset foundation, SQL layer, and technology‑stack slides |
 
 ---
 
@@ -595,7 +595,7 @@ Every markdown file in this repository, linked and described:
 | [`dashboard/README.md`](./dashboard/README.md) | Dashboard visual architecture, zones, and interactivity design |
 | [`dashboard/dashboard_dictionary.md`](./dashboard/dashboard_dictionary.md) | Field‑level mapping from dashboard UI elements to source columns |
 | [`insights/README.md`](./insights/README.md) | Description of each extracted CSV deliverable and its verified baseline values |
-| [`presentation/Executive_Presentation.md`](./presentation/Executive_Presentation.md) | Markdown source of the executive slide deck |
+| [`Presentation/Executive_Presentation.md`](./Presentation/Executive_Presentation.md) | Markdown source of the executive slide deck |
 | [`reports/Executive_Report.md`](./reports/Executive_Report.md) | Full executive diagnostic report |
 
 ---
