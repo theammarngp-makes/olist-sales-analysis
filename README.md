@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)]()
 
-**[📊 Live Dashboard](https://public.tableau.com/views/OlistDashboard_17723869461260/Dashboard2)** · **[🗃️ SQL](./sql)** · **[🐍 Python](./python)** · **[📖 Documentation](./docs)** · **[📑 Executive Report](./reports/Executive_Report.md)** · **[🎤 Presentation](./presentation)**
+**[📊 Live Dashboard](https://public.tableau.com/views/OlistDashboard_17723869461260/Dashboard2)** · **[🗃️ SQL](./sql)** · **[🐍 Python](./python)** · **[📖 Documentation](./docs)** · **[📑 Executive Report](./reports/Executive_Report.md)** · **[🎤 Presentation](./Presentation/Olist-Analytics-Insight.pptx)**
 
 </div>
 
