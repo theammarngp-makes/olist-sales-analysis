@@ -1,0 +1,37 @@
+
+# 1. FORCE CORE CODE LANGUAGES TO BE DETECTED
+*.sql linguist-language=SQL
+**.sql linguist-language=SQL
+*.sql linguist-detectable=true
+**.sql linguist-detectable=true
+
+*.py linguist-language=Python
+**.py linguist-language=Python
+*.py linguist-detectable=true
+**.py linguist-detectable=true
+
+# 2. FORCE GITHUB NOT TO MISTAKE CODE FOLDERS FOR DOCUMENTATION
+*.sql linguist-documentation=false
+**.sql linguist-documentation=false
+*.py linguist-documentation=false
+**.py linguist-documentation=false
+
+# 3. STRIP DOCUMENTATION & PRESENTATIONS FROM LANGUAGE BAR STATS
+*.md linguist-documentation=true
+**.md linguist-documentation=true
+*.pdf linguist-documentation=true
+**.pdf linguist-documentation=true
+*.pptx linguist-documentation=true
+**.pptx linguist-documentation=true
+*.png linguist-documentation=true
+**.png linguist-documentation=true
+
+# 4. EXCLUDE DATASETS AND JUPYTER NOTEBOOK OUTPUTS FROM SCORING
+*.csv linguist-detectable=false
+**.csv linguist-detectable=false
+*.xlsx linguist-detectable=false
+**.xlsx linguist-detectable=false
+*.json linguist-detectable=false
+**.json linguist-detectable=false
+*.ipynb linguist-detectable=false
+**.ipynb linguist-detectable=false
