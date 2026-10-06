@@ -698,6 +698,7 @@ This is the first of a three‑part Olist analytics series:
 
 - **[Cohort Retention Analysis](https://github.com/theammarngp-makes/E-commerce-cohort-retention-analysis)** — a deep dive on the retention gap flagged in Insight 4 above
 - **[E‑Commerce RFM Customer Segmentation](https://github.com/theammarngp-makes/ecommerce-rfm-customer-segmentation)** — segment‑level detail behind the "repeat vs. one‑time buyer" finding
+- **[Month-over-Month Growth Analysis](https://github.com/theammarngp-makes/monthly-revenue-growth-analysis)**
 
 ---
 
